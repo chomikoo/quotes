@@ -2,6 +2,8 @@
 // AJAX ----  "https://market.mashape.com/andruxnet/random-famous-quotes
 var tweetLink = "https://twitter.com/intent/tweet?text=",   // Tweetowanie
     quoteUrl = "https://andruxnet-random-famous-quotes.p.mashape.com/cat=famous?callback?"
+
+
     
 
         
